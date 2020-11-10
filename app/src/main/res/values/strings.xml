@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Display GitHub Jobs Info</string>
+    <string name="main_title_text">Programming Jobs</string>
+    <string name="image_content_desc">Company Logo</string>
+    <string name="job_title_text">Python + Django Software Engineer</string>
+    <string name="job_type_text">Full Time</string>
+    <string name="job_location_text">United States of America</string>
+    <string name="job_company_text">Wonder</string>
+    <string name="job_post_date">Tue Nov 03 15:55:02 UTC 2020</string>
+    <string name="company_button_text">Visit Company Website</string>
+    <string name="job_button_text">Job Description</string>
+    <string name="job_item_title_text">My Title</string>
+</resources>
