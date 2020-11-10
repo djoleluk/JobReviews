@@ -44,10 +44,10 @@ public class JobActivity extends AppCompatActivity {
         String jobType = intent.getStringExtra("type");
         String jobLocation = intent.getStringExtra("location");
         String jobCompany = intent.getStringExtra("company");
-        String jobPostDate = intent.getStringExtra("post_date");
-        jobLogo = intent.getStringExtra("logoUrl");
-        jobDescUrl = intent.getStringExtra("jobDescUrl");
-        jobCompanyUrl = intent.getStringExtra("jobCompanyUrl");
+        String jobPostDate = intent.getStringExtra("created_at");
+        jobLogo = intent.getStringExtra("company_logo");
+        jobDescUrl = intent.getStringExtra("url");
+        jobCompanyUrl = intent.getStringExtra("company_url");
 
         title.setText(jobTitle);
         type.setText(jobType);
